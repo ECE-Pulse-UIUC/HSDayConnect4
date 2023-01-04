@@ -82,7 +82,7 @@ print_board(board)
 game_over = False
 turn = 0
 
-pygame.init()
+pygame_init()
 
 SQUARESIZE = 100
 
